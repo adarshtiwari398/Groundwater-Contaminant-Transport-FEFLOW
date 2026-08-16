@@ -1,13 +1,5 @@
 # Contaminant Transport Modelling in Groundwater Using FEFLOW
 
-<p align="center">
-  <img src="figures/study-area.png" width="750">
-</p>
-
-<p align="center">
-  <b>3D Groundwater Flow and Iron Contaminant Transport Modelling — Boragaon, Guwahati</b>
-</p>
-
 ---
 
 ## 📌 Overview
